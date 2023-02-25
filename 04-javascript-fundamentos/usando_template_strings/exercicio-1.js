@@ -4,5 +4,4 @@ string e imprima o resultado */
 
 const nome = 'Thais';
 const idade = 26;
-console.log(nome, idade);
-
+console.log(`O resultado é: ${nome} possui ${idade} anos`);
